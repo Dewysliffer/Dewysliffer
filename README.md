@@ -10,6 +10,6 @@
     <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,sqlite" />
     <img src="https://skillicons.dev/icons?i=go,docker" />
     <img src="https://skillicons.dev/icons?i=python,anaconda,scikitlearn,pytorch,tensorflow,opencv,latex&theme=light" />
-    <img src="https://skillicons.dev/icons?i=lua&theme=light" />
+    <img src="https://skillicons.dev/icons?i=lua,robloxstudio,discord&theme=light" />
   </a>
 </p>
