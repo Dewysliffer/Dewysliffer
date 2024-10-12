@@ -4,7 +4,7 @@
 <p align="center">🛠️ Languages and Tools</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vue,nodejs,npm,webpack&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,vite,express,nodejs,npm,webpack&theme=light" />
     <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,supabase" />
     <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,linux,redis,nginx&theme=light" />
     <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,sqlite" />
